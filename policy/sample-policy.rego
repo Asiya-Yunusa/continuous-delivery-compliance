@@ -1,4 +1,4 @@
-package iswpolicy
+package main
 
 
 
